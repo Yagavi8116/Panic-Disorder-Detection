@@ -2,10 +2,10 @@
 
 Team Members:
 
-1.Yagavi K
+1. Yagavi K
 
-2.Shakthi Shamruth Dhamotharan
+2. Shakthi Shamruth Dhamotharan
 
-3.Adithya Vyas
+3. Komanduru Adithya Vyas
 
-4.Kavuru Sai Abhijit Prasant
+4. Kavuru Sai Abhijit Prasant
