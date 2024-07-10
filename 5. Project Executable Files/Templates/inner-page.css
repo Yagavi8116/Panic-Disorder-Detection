@@ -1,0 +1,6 @@
+/* Specific Styles for inner-page.html */
+
+.main-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
