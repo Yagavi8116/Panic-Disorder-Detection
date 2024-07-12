@@ -14,6 +14,10 @@ with open("dtf.pkl", "rb") as f:
 def input():
     return render_template("index.html")
 
+@app.route('/contributors', methods=['GET','POST'])
+def contributors():
+    return render_template("contributors.html")
+
 @app.route('/predict', methods=['GET', 'POST'])
 def admin():
     if request.method == 'POST':
