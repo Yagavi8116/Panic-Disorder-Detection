@@ -46,6 +46,11 @@ to run the application.
 
 ### Screenshots
 
+<img width="778" alt="image" src="https://github.com/user-attachments/assets/addb33da-2d4c-42a8-a798-106eb22a779b">
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/06cbc9ba-c0b7-4e00-bc9b-6fb18d220070">
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/99a0f177-de40-4605-87d0-13bdbb53adc4">
+
+
 TeamID: SWTID1720075414
 
 ---
