@@ -2,6 +2,8 @@
 
 The aim of this project is to create and provide an easier way of self-diagnosing Panic Disorders using Machine Learning. The application is deployed in Flask and interaction with the project is made easy through web pages.
 
+[Project Executable Files](https://github.com/Yagavi8116/Panic-Disorder-Detection/tree/main/5.%20Project%20Executable%20Files)
+
 ## Installation
 
 ### Cloning the project:
@@ -18,8 +20,6 @@ pip install sci-kit==1.2.2
 ```
 
 ## Using the Project
-
-[Project Folder](https://github.com/Yagavi8116/Panic-Disorder-Detection/tree/main/5.%20Project%20Executable%20Files)
 
 ### Dataset
 -The dataset consists of 20,000 entries with 17 columns, which includes demographic details, medical and psychiatric history, current stressors, symptoms, and coping mechanisms. these features are mainly aimed at identifying factors related to panic disorder diagnosis. 
