@@ -46,9 +46,9 @@ to run the application.
 
 ### Screenshots
 
-<img width="778" alt="image" src="https://github.com/user-attachments/assets/addb33da-2d4c-42a8-a798-106eb22a779b">
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/06cbc9ba-c0b7-4e00-bc9b-6fb18d220070">
-<img width="776" alt="image" src="https://github.com/user-attachments/assets/99a0f177-de40-4605-87d0-13bdbb53adc4">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/053778eb-dd43-4ca3-91b1-86b49061e963">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/4fdfc4a9-fc69-4d47-9838-5101d97577d4">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/52198131-a450-4598-8c26-9551ffe29d91">
 
 
 TeamID: SWTID1720075414
