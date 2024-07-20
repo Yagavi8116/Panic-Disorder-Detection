@@ -16,7 +16,7 @@ pip install sci-kit==1.2.2
 -The link to access the dataset is the following:- [muhammadshahidazeem/panic-disorder-detection-dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/panic-disorder-detection-dataset)
 
 ### Training the model
-1. Launch the file *Panic_Disorder_Detection_Notebook.ipynb* in Jupyter Notebook.
+1. Launch the file *[Panic_Disorder_Detection_Notebook.ipynb](https://github.com/Yagavi8116/Panic-Disorder-Detection/blob/main/5.%20Project%20Executable%20Files/Panic_Disorder_Detection_Notebook.ipynb)* in Jupyter Notebook.
 2. Ensure that the datasets, i.e *panic_disorder_dataset_testing.csv* and *panic_disorder_dataset_training.csv* are in same folder and loaded properly.
 3. Run all the cells in a serial manner. This will lead to proper building and training of the model.
 4. Running the cells upto:
