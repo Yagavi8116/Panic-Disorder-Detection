@@ -22,7 +22,7 @@ pip install sci-kit==1.2.2
 ## Using the Project
 
 ### Dataset
--The dataset consists of 20,000 entries with 17 columns, which includes demographic details, medical and psychiatric history, current stressors, symptoms, and coping mechanisms. these features are mainly aimed at identifying factors related to panic disorder diagnosis. 
+-The dataset consists of 20,000 entries with 17 columns, which includes demographic details, medical and psychiatric history, current stressors, symptoms, and coping mechanisms. These features are mainly aimed at identifying factors related to panic disorder diagnosis. 
 
 -The link to access the dataset is the following:- [muhammadshahidazeem/panic-disorder-detection-dataset](https://www.kaggle.com/datasets/muhammadshahidazeem/panic-disorder-detection-dataset)
 
