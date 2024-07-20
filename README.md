@@ -8,6 +8,25 @@ We have used Sci-Kit version 1.2.2 for both training the data and deploying the 
 ```bash
 pip install sci-kit==1.2.2
 ```
+
+## Using the Project
+### Dataset
+-The dataset consists of 20,000 entries with 17 columns, which includes demographic details, medical and psychiatric history, current stressors, symptoms, and coping mechanisms. thes featurs are mainly aimed at identifying factors related to panic disorder diagnosis, which is presented as a binary column. 
+-The link to access the dataset is the following:- https://www.kaggle.com/datasets/muhammadshahidazeem/panic-disorder-detection-dataset
+
+### Training the model
+1. Launch the file Panic_Disorder_Detection_Notebook.ipynb in Jupyter Notebook.
+2. Ensure that the datasets, i.e panic_disorder_dataset_testing.csv and panic_disorder_dataset_training.csv are loaded properly.
+3. Run all the cells in a serial manner. This will lead to proper building and training of the model.
+4. Running the cell
+```
+pkl.dump(dtf, open('dtf.pkl','wb'))
+```
+   saves a file named 'dtf.pkl' on your device.
+
+
+
+
 TeamID: SWTID1720075414
 
 ---
