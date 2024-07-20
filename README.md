@@ -24,8 +24,19 @@ pkl.dump(dtf, open('dtf.pkl','wb'))
 ```
    saves a file named 'dtf.pkl' on your device.
 
+### Website
+-The wesbite uses Flask for its deployment
+-The website enables the user to choose the options from the choices provided in the dropdown or radio/check boxes and, on the basis of the user's input, provides the output stating that either the user is normal or the user might have panic disorder.
 
+### Website Deployment
+-Make sure that the file 'dtf.pkl' is present in the chosen directory.
+-Type:
+```
+python app.py
+```
+to run the application.
 
+### Screenshots
 
 TeamID: SWTID1720075414
 
