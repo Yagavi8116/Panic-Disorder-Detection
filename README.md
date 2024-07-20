@@ -34,16 +34,15 @@ pip install sci-kit==1.2.2
 ```
 pkl.dump(dtf, open('dtf.pkl','wb'))
 ```
-   saves a file named 'dtf.pkl' on your device.
+   saves a file named '*dtf.pkl*' on your device.
 
 ### Website
--The wesbite uses Flask for its deployment
-
+-The wesbite uses Flask for its deployment.
 
 -The website enables the user to choose the options from the choices provided in the dropdown or radio/check boxes and, on the basis of the user's input, provides the output stating that either the user is normal or the user might have panic disorder.
 
 ### Website Deployment
--Make sure that the file 'dtf.pkl' is present in the chosen directory, same folder as in *app.py*.
+-Make sure that the file '*dtf.pkl*' is present in the chosen directory, same folder as in *app.py*.
 
 
 -Run the following in terminal:
@@ -52,7 +51,7 @@ python app.py
 ```
 to run the application.
 
-### Screenshots
+## Screenshots
 
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/053778eb-dd43-4ca3-91b1-86b49061e963">
 <img width="1280" alt="image" src="https://github.com/user-attachments/assets/4fdfc4a9-fc69-4d47-9838-5101d97577d4">
@@ -72,7 +71,7 @@ to run the application.
 4. Kavuru Sai Abhijit Prasant
 
 
-TeamID: SWTID1720075414
+**TeamID: SWTID1720075414**
 
 ---
 
