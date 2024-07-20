@@ -35,10 +35,10 @@ pkl.dump(dtf, open('dtf.pkl','wb'))
 -The website enables the user to choose the options from the choices provided in the dropdown or radio/check boxes and, on the basis of the user's input, provides the output stating that either the user is normal or the user might have panic disorder.
 
 ### Website Deployment
--Make sure that the file 'dtf.pkl' is present in the chosen directory.
+-Make sure that the file 'dtf.pkl' is present in the chosen directory, same folder as in *app.py*.
 
 
--Type:
+-Run the following in terminal:
 ```
 python app.py
 ```
